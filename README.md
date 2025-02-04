@@ -1,16 +1,5 @@
-# p3
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In my Expenses Tracker Flutter app,I implemented key skills such as:
+setting up an AppBar, adding modal sheets for user interactions, and managing input with TextField and TextEditingController.
+I streamlined data entry by allowing new inputs and manual modal closures while using Futures for asynchronous data handling. 
+Also created dropdown buttons for expense categories, designed fullscreen modals, and utilized the Dismissible widget for item removal. 
+Additionally, I focused on theming with custom color schemes, incorporated dark mode for usability, and employed loops to efficiently display expense data.
